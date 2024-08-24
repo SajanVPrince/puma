@@ -30,18 +30,18 @@
 .fa-regular:hover,.fa-solid:hover{
     color: grey;
 }
-.ban1>img{
+.ban1>img,.ban2>img,.ban3>img,.ban4>img,.ban5>img{
     width: 100%;
 }
 .ban1{
     position: relative;
 }
-.shop,.shop1,.shop2,.shop3{
+.shop,.shop1,.shop2,.shop3,.shop4,.shop5,.shop6{
     position: absolute;
-    top: 290px;
+    top: 60%;
     left: 60%;
 }
-.a1,.a2,.a3,.a4{
+.a1,.a2,.a3,.a4,.a5,.a6,.a7{
     font-size: 1.3vw;
     font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
     padding: 6px 19px;
@@ -58,10 +58,19 @@
 .shop2{
     left: 84%;
 }
-.ban2{
+.ban2,.ban3,.ban4,.ban5{
     margin-top: 10px;
     position: relative;
 }
 .shop3{
-    left: 190px;
+    left: 13%;
+}
+.shop4{
+    left: 11%;
+}
+.shop5{
+    left: 80%;
+}
+.shop6{
+    left: 15%;
 }
