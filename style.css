@@ -121,3 +121,44 @@
     top: 3%;
     left: 2%;
 }
+.md{
+    padding: 100px 0px;
+    position: relative;
+}
+
+.clrg{
+    background-color: rgb(23, 105, 100);
+    height: 550px;
+    width: 100%;
+}
+.clrgmx{
+    position:absolute;
+    left: 45%;
+    top: 3%;
+    height:50px;
+}
+.clrgmy{
+    position: absolute;
+    top: 40%;
+    left: 1%;
+}
+.font,.font1{
+    position: absolute;
+    top: 20%;
+    left: 5%;
+}
+.p1,.p2{
+    font-size: 3vw;
+    color: white;
+}
+.p2{
+    font-size: 1vw;
+}
+.shop7,.shop8{
+    position: absolute;
+    top: 30%;
+    left: 5%;
+}
+.shop8{
+    left: 16%;
+}
