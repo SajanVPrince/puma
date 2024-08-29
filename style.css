@@ -80,9 +80,9 @@
     left: 15%;
 }
 #rm{
-    width: 100px;
-    height: 100px;
-    border: 2px solid orange;
+    width: 120px;
+    height: 120px;
+    border: 3px solid orange;
     padding: 4px;
 }
 .h6{
@@ -182,7 +182,7 @@
     left: 16%;
 }
 .fig{
-    font-size: 3vw;
+    font-size: 2vw;
     text-align: center;
 }
 .fig1{
